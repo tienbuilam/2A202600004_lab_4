@@ -1,6 +1,6 @@
 # 🧳 TravelBuddy — Trợ lý Du lịch Thông minh
 
-**MSSV:** 2A202600004 | **Lab 4** — Xây dựng AI Agent với Tool-Calling
+**MSSV:** 2A202600004 | **Lab 4** — Xây dựng AI Agent với Prompt Engineering
 
 ## 📖 Giới thiệu
 
